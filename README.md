@@ -80,11 +80,14 @@ Contribute and unlock GitHub badges:
 
 ## 📬 Contact
 
-Feel free to connect:
+### 🔗 Feel Free to Connect
 
-- 📧 Email: [07s.atabul@gmail.com](mailto:07s.atabul@gmail.com)
-- 🌐 GitHub: [@codeByunique](https://github.com/codeByunique)
-- 📺 YouTube: [codeByunique](https://youtube.com/@codeByunique)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:07s.atabul@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeByunique)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codeByunique)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/07atabul/)
+
+- 
 
 ---
 
