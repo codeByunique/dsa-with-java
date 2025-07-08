@@ -16,38 +16,39 @@ It's designed for students, job seekers, and coding enthusiasts who want to buil
 
 ---
 
-## 📚 Topics
+## 📚 Topics 
 
 | ✅ Topic                         | 📁 Folder Link |
 |----------------------------------|----------------|
-| Arrays                          | [`01. Arrays`](./01.%20Arrays) |
-| Strings                         | [`02. Strings`](./02.%20Strings) |
-| Linked List                     | [`03. Linked List`](./03.%20Linked%20List) |
-| Stack                           | [`04. Stack`](./04.%20Stack) |
-| Queue                           | [`05. Queue`](./05.%20Queue) |
-| Hashing / HashMap               | [`06. Hashing - HashMap`](./06.%20Hashing%20-%20HashMap) |
-| Recursion                       | [`07. Recursion`](./07.%20Recursion) |
-| Sorting                         | [`08. Sorting`](./08.%20Sorting) |
-| Searching                       | [`09. Searching`](./09.%20Searching) |
-| Binary Search                   | [`10. Binary Search`](./10.%20Binary%20Search) |
-| Sliding Window                  | [`11. Sliding Window`](./11.%20Sliding%20Window) |
-| Two Pointers                    | [`12. Two Pointers`](./12.%20Two%20Pointers) |
-| Bit Manipulation                | [`13. Bit Manipulation`](./13.%20Bit%20Manipulation) |
-| Mathematics                     | [`14. Mathematics`](./14.%20Mathematics) |
-| Greedy Algorithms               | [`15. Greedy Algorithms`](./15.%20Greedy%20Algorithms) |
-| Backtracking                    | [`16. Backtracking`](./16.%20Backtracking) |
-| Divide and Conquer             | [`17. Divide and Conquer`](./17.%20Divide%20and%20Conquer) |
-| Dynamic Programming             | [`18. Dynamic Programming`](./18.%20Dynamic%20Programming) |
-| Graphs                          | [`19. Graphs`](./19.%20Graphs) |
-| Trees                           | [`20. Trees`](./20.%20Trees) |
-| Tries                           | [`21. Tries`](./21.%20Tries) |
-| Heap / Priority Queue           | [`22. Heap - Priority Queue`](./22.%20Heap%20-%20Priority%20Queue) |
-| Disjoint Set (Union-Find)       | [`23. Disjoint Set - Union-Find`](./23.%20Disjoint%20Set%20-%20Union-Find) |
-| Segment Tree / Binary Indexed Tree | [`24. Segment Tree - Binary Indexed Tree`](./24.%20Segment%20Tree%20-%20Binary%20Indexed%20Tree) |
-| Topological Sort                | [`25. Topological Sort`](./25.%20Topological%20Sort) |
-| Game Theory                     | [`26. Game Theory`](./26.%20Game%20Theory) |
-| Interview Puzzles               | [`27. Interview Puzzles`](./27.%20Interview%20Puzzles) |
-| Practice Sheet                  | [`28. Practice Sheet`](./28.%20Practice%20Sheet) |
+| Arrays                          | [`01-arrays`](./01-arrays) |
+| Strings                         | [`02-strings`](./02-strings) |
+| Linked List                     | [`03-linked-list`](./03-linked-list) |
+| Stack                           | [`04-stack`](./04-stack) |
+| Queue                           | [`05-queue`](./05-queue) |
+| Hashing / HashMap               | [`06-hashing`](./06-hashing) |
+| Recursion                       | [`07-recursion`](./07-recursion) |
+| Sorting                         | [`08-sorting`](./08-sorting) |
+| Searching                       | [`09-searching`](./09-searching) |
+| Binary Search                   | [`10-binary-search`](./10-binary-search) |
+| Sliding Window                  | [`11-sliding-window`](./11-sliding-window) |
+| Two Pointers                    | [`12-two-pointers`](./12-two-pointers) |
+| Bit Manipulation                | [`13-bit-manipulation`](./13-bit-manipulation) |
+| Mathematics                     | [`14-mathematics`](./14-mathematics) |
+| Greedy Algorithms               | [`15-greedy`](./15-greedy) |
+| Backtracking                    | [`16-backtracking`](./16-backtracking) |
+| Divide and Conquer              | [`17-divide-and-conquer`](./17-divide-and-conquer) |
+| Dynamic Programming             | [`18-dynamic-programming`](./18-dynamic-programming) |
+| Graphs                          | [`19-graphs`](./19-graphs) |
+| Trees                           | [`20-trees`](./20-trees) |
+| Tries                           | [`21-tries`](./21-tries) |
+| Heap / Priority Queue           | [`22-heap`](./22-heap) |
+| Disjoint Set (Union-Find)       | [`23-disjoint-set`](./23-disjoint-set) |
+| Segment Tree / BIT              | [`24-segment-tree`](./24-segment-tree) |
+| Topological Sort                | [`25-topological-sort`](./25-topological-sort) |
+| Game Theory                     | [`26-game-theory`](./26-game-theory) |
+| Interview Puzzles               | [`27-interview-puzzles`](./27-interview-puzzles) |
+| Practice Sheet                  | [`28-practice-sheet`](./28-practice-sheet) |
+
 
 ---
 
