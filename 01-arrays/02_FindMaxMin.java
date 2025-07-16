@@ -1,7 +1,7 @@
 // Problem: Find Maximum and Minimum in an Array
 // Author: Ataubl (codeByunique)
 
-public class FindMaxMin {
+class FindMaxMin {
     public static void main(String[] args) {
         int[] arr = {3, 9, 1, 7, 4, -2, 10};
         int n = arr.length;
