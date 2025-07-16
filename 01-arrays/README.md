@@ -56,3 +56,21 @@ Track the global maximum sum found so far.
 **Space Complexity:** O(1)
 
 ---
+
+### ➕ Two Sum
+
+**Problem:**  
+Given an array of integers and a target sum, return the indices of the two numbers such that they add up to the target.
+
+**Input:** [2, 7, 11, 15], target = 9  
+**Output:** Indices = [0, 1]  
+**Explanation:** 2 + 7 = 9
+
+**Approach:**  
+Use a HashMap to store the difference (target - current element) and its index.  
+If the current element exists in the map, return the stored index and current index.
+
+**Time Complexity:** O(n)  
+**Space Complexity:** O(n)
+
+---
