@@ -74,3 +74,20 @@ If the current element exists in the map, return the stored index and current in
 **Space Complexity:** O(n)
 
 ---
+
+### 🧮 Subarrays with Given Sum
+
+**Problem:**  
+Given an array of integers and a target sum, count the number of continuous subarrays whose sum equals the target.
+
+**Input:** [1, 2, 3, 2, 1], target = 5  
+**Output:** 2  
+**Explanation:** Subarrays = [2,3] and [3,2]
+
+**Approach:**  
+Use a prefix sum + hashmap to count how often a needed sum occurred before the current index.
+
+**Time Complexity:** O(n)  
+**Space Complexity:** O(n)
+
+---
