@@ -23,3 +23,24 @@ Use two pointers (start and end), and check if characters match while moving inw
 
 **Time Complexity:** O(n)  
 **Space Complexity:** O(1)
+
+---
+
+### 🔤 Anagram Check
+
+**Problem:**  
+Check whether two strings are anagrams of each other.
+
+**Input:** "listen", "silent"  
+**Output:** true  
+**Explanation:** Both have same letters in different order
+
+**Approach:**  
+- Clean the strings (remove spaces and convert to lowercase)  
+- Sort both strings  
+- Compare the sorted versions
+
+**Time Complexity:** O(n log n)  
+**Space Complexity:** O(n)
+
+---
