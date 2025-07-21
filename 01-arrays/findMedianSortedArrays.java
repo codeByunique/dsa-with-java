@@ -1,3 +1,7 @@
+// Problem: Find Meadian Sorted Arrays
+// Author: Ataubl (faizansaifigns)
+
+
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         ArrayList<Integer> merged=new ArrayList<>();
@@ -17,10 +21,6 @@ class Solution {
             int mid2=merged.get(t/2);
             return (mid1+mid2)/2.0;
         }
-    
-        
-      
-
         
     }
 }
