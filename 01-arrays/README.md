@@ -6,6 +6,9 @@ This section includes problems like:
 - Kadane's Algorithm
 - Two Sum
 - Subarrays with given sum
+- Median of Two Sorted Arrays
+- Find Lucky Integer
+- Next Permutation
 
 ---
 
@@ -91,3 +94,69 @@ Use a prefix sum + hashmap to count how often a needed sum occurred before the c
 **Space Complexity:** O(n)
 
 ---
+
+### ⚖️ Median of Two Sorted Arrays
+
+**Problem:**  
+Given two sorted arrays, find the median of the combined sorted array.
+
+**Input:** [1, 2], [3, 4]  
+**Output:** 2.5
+
+**Approach:**  
+- Merge both arrays into one  
+- Sort the merged array  
+- If total size is odd, return middle  
+- If even, return average of two middle elements
+
+**Time Complexity:** O((m+n) log(m+n))  
+**Space Complexity:** O(m+n)
+
+**Contributor:** Faizan (faizansaifigns)
+
+---
+
+### 🍀 Find Lucky Integer
+
+**Problem:**  
+Find the largest integer in the array such that its **frequency is equal to its value**. If no such integer exists, return -1.
+
+**Input:** [2, 2, 3, 4]  
+**Output:** 2  
+**Explanation:** 2 occurs twice, and value is also 2 → Lucky!
+
+**Approach:**  
+- Use a `HashMap` to count frequency of each number  
+- Traverse the map and check if any number's frequency equals its value  
+- Track the maximum such lucky number
+
+**Time Complexity:** O(n)  
+**Space Complexity:** O(n)
+
+**Contributor:** Faizan (faizansaifigns)
+
+---
+
+### 🔁 Next Permutation
+
+**Problem:**  
+Find the **next lexicographically greater permutation** of the given array. If no such permutation exists, rearrange to the lowest possible order (i.e., sorted in ascending).
+
+**Input:** [1, 2, 3]  
+**Output:** [1, 3, 2]  
+**Input:** [3, 2, 1]  
+**Output:** [1, 2, 3]
+
+**Approach:**  
+1. Traverse from right to find the **pivot** (first element from right such that `nums[i] < nums[i+1]`)  
+2. If not found, reverse entire array  
+3. Else, find **next greater element** to the right of pivot, and swap  
+4. Reverse the suffix (right part of pivot)
+
+**Time Complexity:** O(n)  
+**Space Complexity:** O(1)
+
+**Contributor:** Faizan (faizansaifigns)
+
+---
+
