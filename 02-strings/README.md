@@ -62,3 +62,17 @@ Find the longest common prefix string among an array of strings.
 **Time Complexity:** O(n * m) (n = number of strings, m = average length)  
 **Space Complexity:** O(1)
 
+### 🧲 String Compression
+
+**Problem:** Compress a character array in-place such that repeated characters are replaced by the character followed by the count.
+
+**Example:**  
+Input: `['a','a','b','b','c','c','c']`  
+Output: `['a','2','b','2','c','3']`  
+Returned length: `6`
+
+**Approach:**  
+Use two pointers — one for reading characters and another for writing compressed result. Count consecutive characters and insert count only when more than one.
+
+**Time Complexity:** O(n)  
+**Space Complexity:** O(1)
