@@ -62,6 +62,8 @@ Find the longest common prefix string among an array of strings.
 **Time Complexity:** O(n * m) (n = number of strings, m = average length)  
 **Space Complexity:** O(1)
 
+---
+
 ### 🧲 String Compression
 
 **Problem:** Compress a character array in-place such that repeated characters are replaced by the character followed by the count.
