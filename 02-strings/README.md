@@ -76,3 +76,20 @@ Use two pointers — one for reading characters and another for writing compress
 
 **Time Complexity:** O(n)  
 **Space Complexity:** O(1)
+
+---
+
+### 🔎 Pattern Searching (Naive)
+
+**Problem:** Find all starting indices in the text where a given pattern appears.
+
+**Example:**  
+Text: `"AABAACAADAABAABA"`  
+Pattern: `"AABA"`  
+Output: `Pattern found at index 0, 9, 12`
+
+**Approach:**  
+Use the naive pattern search technique by sliding the pattern one character at a time and checking for a match.
+
+**Time Complexity:** O((n - m + 1) * m)  
+**Space Complexity:** O(1)
