@@ -66,3 +66,19 @@ Traverse from right to left and use a stack to maintain potential next greater e
 
 ---
 
+### ✅ Evaluate Reverse Polish Notation
+
+**Problem:**  
+Evaluate a postfix (Reverse Polish Notation) expression using stack.
+
+**Example:**  
+Input: ["2", "1", "+", "3", "*"]  
+Output: 9  
+Explanation: (2 + 1) * 3 = 9
+
+**Approach:**  
+Use a stack to push numbers.  
+On encountering an operator, pop two numbers, apply the operation, and push the result back.
+
+**Time Complexity:** O(n)  
+**Space Complexity:** O(n)
