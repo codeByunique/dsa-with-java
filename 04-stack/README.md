@@ -48,3 +48,21 @@ Use an additional stack (`minStack`) to track the minimum at each level.
 
 ---
 
+### ✅ Next Greater Element
+
+**Problem:**  
+For each element in an array, find the next greater element to its right.  
+If no such element exists, return -1.
+
+**Example:**  
+Input: [4, 5, 2, 25] → Output: [5, 25, 25, -1]  
+Input: [13, 7, 6, 12] → Output: [-1, 12, 12, -1]
+
+**Approach:**  
+Traverse from right to left and use a stack to maintain potential next greater elements.
+
+**Time Complexity:** O(n)  
+**Space Complexity:** O(n)
+
+---
+
