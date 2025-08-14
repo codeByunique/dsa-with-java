@@ -1,5 +1,5 @@
 // Problem: Find Maximum and Minimum in an Array
-// Author: Ataubl (codeByunique)
+// Author: Atabul (codeByunique)
 
 class FindMaxMin {
     public static void main(String[] args) {

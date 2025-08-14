@@ -1,5 +1,5 @@
 // Problem: Maximum Subarray Sum (Kadane's Algorithm)
-// Author: Ataubl (codeByunique)
+// Author: Atabul (codeByunique)
 
 class KadanesAlgorithm {
     public static void main(String[] args) {

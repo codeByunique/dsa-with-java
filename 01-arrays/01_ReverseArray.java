@@ -1,6 +1,6 @@
 
 // Problem: Reverse an array
-// Author: Ataubl (codeByunique)
+// Author: Atabul (codeByunique)
 
 class ReverseArray {
     public static void main(String[] args) {

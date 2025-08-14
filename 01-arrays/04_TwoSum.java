@@ -1,5 +1,5 @@
 // Problem: Two Sum
-// Author: Ataubl (codeByunique)
+// Author: Atabul (codeByunique)
 
 import java.util.HashMap;
 
